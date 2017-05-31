@@ -1,0 +1,1 @@
+将tomcat目录的属主用户设置为devnote，属组设置为devnote组
